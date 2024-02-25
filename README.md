@@ -4,6 +4,7 @@ Este repositório vem com a configuração do NextAuth.js e algumas funções do
 Este projeto esta com o next 14.0.0 mas utiliza o sistema de PAGES, pois a documentação do nextauth não esta clara ainda para o app router.
 
 _PACOTES:_
+<br/>
 NEXT JS 14.0.0 (PAGE)
 REACT.JS
 TAILWINDCSS
