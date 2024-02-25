@@ -5,13 +5,13 @@ Este projeto esta com o next 14.0.0 mas utiliza o sistema de PAGES, pois a docum
 
 _PACOTES:_
 <br/>
-NEXT JS 14.0.0 (PAGE)
-REACT.JS
-TAILWINDCSS
-NEXTHAUTH
-PG (postgresql)
-SEQUELIZE
-ANIMATED_TAILWINDCSS
+NEXT JS 14.0.0 (PAGE)<br/>
+REACT.JS<br/>
+TAILWINDCSS<br/>
+NEXTHAUTH<br/>
+PG (postgresql)<br/>
+SEQUELIZE<br/>
+ANIMATED_TAILWINDCSS<br/>
 
 # PROCESSOS PARA CONFIGURAÇÂO
 
