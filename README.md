@@ -48,9 +48,9 @@ _NEXTAUTH_<br/>
 NEXTAUTH_URL=https://seu-app.vercel.app ou http://localhost:3000<br/>
 NEXTAUTH_SECRET= crie um segredo forte aqui.<br/>
 
-_GOOGLE PROVIDER_<br/>
 
-# Variaveis que você recebe no credentials do id do cliente OAuth2.0<br/>
+_GOOGLE PROVIDER_<br/>
+Variaveis que você recebe no credentials do id do cliente OAuth2.0<br/>
 
 GOOGLE_CLIENT_ID=<br/>
 GOOGLE_CLIENT_SECRET=<br/>
